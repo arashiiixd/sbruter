@@ -1,0 +1,8 @@
+{
+    "threads": 5,
+    "solver_key": "solver key here",
+    "basePassword": "SXVMxBEAM",
+    "logWebhook": false,
+    "webhook": "webhook here",
+    "comment": "Originally made by SXVM, revamped by BEAM."
+}
